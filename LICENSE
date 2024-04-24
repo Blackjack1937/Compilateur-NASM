@@ -33,6 +33,8 @@ Agreement.
 "Recipient" means anyone who receives the Program under this Agreement
 or any Secondary License (as applicable), including Contributors.
 
+Compilateur-NASM Copyright (c) 2024 Hatim RIDAOUI
+
 "Derivative Works" shall mean any work, whether in Source Code or other
 form, that is based on (or derived from) the Program and for which the
 editorial revisions, annotations, elaborations, or other modifications
@@ -259,4 +261,19 @@ under this Agreement are reserved. Nothing in this Agreement is intended
 to be enforceable by any entity that is not a Contributor or Recipient.
 No third-party beneficiary rights are created under this Agreement.
 
-Compilateur-NASM Copyright (c) 2024 Hatim RIDAOUI
+Exhibit A - Form of Secondary Licenses Notice
+
+"This Source Code may also be made available under the following
+Secondary Licenses when the conditions for such availability set forth
+in the Eclipse Public License, v. 2.0 are satisfied: {name license(s),
+version(s), and exceptions or additional permissions here}."
+
+  Simply including a copy of this Agreement, including this Exhibit A
+  is not sufficient to license the Source Code under Secondary Licenses.
+
+  If it is not possible or desirable to put the notice in a particular
+  file, then You may include the notice in a location (such as a LICENSE
+  file in a relevant directory) where a recipient would be likely to
+  look for such a notice.
+
+  You may add additional accurate notices of copyright ownership.
